@@ -20,4 +20,7 @@ http:[livcvybunimo,p
 ## Myndir af Tengingum:
 
 
+## kerfisskýringarmynd :
+-----
+
 
