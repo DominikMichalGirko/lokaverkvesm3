@@ -1,0 +1,72 @@
+import paho.mqtt.client as mqtt
+from time import sleep
+import serial
+MQTT_ADDRESS = '10.201.48.65'
+MQTT_USER = 'dommi'
+MQTT_PASSWORD = '12345'
+MQTT_TOPIC = 'home/VesmLight'
+SERVER_COMMAND_TOPIC = 'home/GameOnVesm'
+ser = serial.Serial('/dev/ttyS0', 9600, timeout=1)
+
+def play_mp3(file_index):
+    # Send command to play an MP3 file with the specified index
+    ser.write(bytes([0x7E, 0xFF, 0x06, 0x03, 0x00, 0x00, file_index, 0xEF]))
+
+    # Wait for response
+    response = ser.read(10)
+
+    # Check response
+    if response == bytes([0x7E, 0xFF, 0x06, 0x00, 0x00, 0x00, file_index, 0xF7]):
+        print("MP3 file is playing...")
+    else:
+        print("Error playing MP3 file.")
+
+def set_volume(volume):
+    # Send command to set the volume level
+    ser.write(bytes([0x7E, 0xFF, 0x06, 0x06, 0x00, 0x00, volume, 0xEF]))
+
+    # Wait for response
+    response = ser.read(10)
+
+    # Check response
+    if response == bytes([0x7E, 0xFF, 0x06, 0x00, 0x00, 0x00, 0x01, 0xF7]):
+        print("Volume set to {}...".format(volume))
+    else:
+        print("Error setting volume.")
+
+def on_connect(client, userdata, flags, rc):
+    """ The callback for when the client receives a CONNACK response from the server."""
+    print('Connected with result code ' + str(rc))
+    client.subscribe(MQTT_TOPIC)
+
+
+def on_message(client, userdata, msg):
+    """The callback for when a PUBLISH message is received from the server."""
+    print(msg.topic + ' ' + str(msg.payload))
+    set_volume(10)
+    if str(msg.payload) == "b'hreyfing'":
+        play_mp3(1) # redlight
+        print("x")
+
+def main():
+    mqtt_client = mqtt.Client()
+    mqtt_client.on_connect = on_connect
+    mqtt_client.on_message = on_message
+
+    mqtt_client.connect(MQTT_ADDRESS, 1883)
+    mqtt_client.loop_start()
+    while True:
+        command = "Green"
+        command1 = "Red"
+        set_volume(10)
+        print("Sending message:", command)
+        mqtt_client.publish(SERVER_COMMAND_TOPIC, command)
+        play_mp3(2) #green light
+        sleep(10)
+        print("sending message", command1)
+        mqtt_client.publish(SERVER_COMMAND_TOPIC,command1)
+        sleep(10)
+
+if __name__ == '__main__':
+    print('MQTT tenging við broker')
+    main()
