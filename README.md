@@ -5,6 +5,8 @@
 ## Verkefnalysing :
 rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Efnislisti:
 ⚪ ESP32 <br>
 ⚪ ---- <br>
@@ -13,7 +15,7 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 ⚪ --- <br>
 ⚪ --- <br>
 
-## YouTube myndband sem synir virkni: <br>
+##  YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
 
 
@@ -23,6 +25,10 @@ http:[livcvybunimo,p
 ## kerfisskýringarmynd :
 ----![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
 
- 
+
+## Heilmindir:
+https://www.circuit-diagram.org/editor/ <br>
+https://mqtt.org/ <br>
+https://techexplorations.com/guides/esp32/begin/digitalout/ <br>
 
 
