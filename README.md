@@ -21,6 +21,8 @@ http:[livcvybunimo,p
 
 
 ## kerfisskýringarmynd :
------
+----![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
+
+ 
 
 
