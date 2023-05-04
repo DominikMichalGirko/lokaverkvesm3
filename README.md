@@ -13,3 +13,11 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 ⚪ --- <br>
 ⚪ --- <br>
 
+## YouTube myndband sem synir virkni: <br>
+http:[livcvybunimo,p
+
+
+## Myndir af Tengingum:
+
+
+
