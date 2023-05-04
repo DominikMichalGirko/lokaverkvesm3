@@ -1,10 +1,15 @@
 # LOKAVERKEFNI VESM3
 
-**nafn** 
+↪️   **nafn** 
 
 ## Verkefnalysing :
 rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 ## Efnislisti:
-- [ ] ESP32
+⚪ ESP32 <br>
+⚪ ---- <br>
+⚪ --- <br>
+⚪ --- <br>
+⚪ --- <br>
+⚪ --- <br>
 
