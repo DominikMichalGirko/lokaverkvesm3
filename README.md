@@ -10,11 +10,11 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 
 ## Efnislisti:
 ⚪ x1 [esp32](https://www.espressif.com/en/products/socs/esp32) <br>
-⚪ x1 Rasberry Pi <br>
-⚪ x1 Ultrasonic Sensor <br>
+⚪ x1 [Rasberry Pi](https://www.raspberrypi.com/) <br>
+⚪ x1 [Ultra Sonic sensor](https://www.fierceelectronics.com/sensors/what-ultrasonic-sensor) <br>
 ⚪ Virar og viðnam  <br>
-⚪ x2 Breadboard   <br>
-⚪ x2 Speaker <br>
+⚪ x2 [Breadboard](https://learn.adafruit.com/lesson-0-getting-started/breadboard)  <br>
+⚪ x2 [Speaker](https://www.hackster.io/blackpanda856/play-music-using-arduino-uno-and-a-speaker-b94e4a)<br>
 
 ## 💠 YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
