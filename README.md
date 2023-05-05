@@ -16,23 +16,24 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 ⚪ x2 Breadboard   <br>
 ⚪ x2 Speaker <br>
 
-##  YouTube myndband sem synir virkni: <br>
+## 💠 YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
 
 
-## Myndir af Tengingum:
+## 🖼️ Myndir af Tengingum:
 
 
 ## kerfisskýringarmynd :
 ![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
 
-## rafrásarteikning :
+## Rafrásarteikning :
 ![circuit](https://user-images.githubusercontent.com/97167360/236456136-2822c2c5-c907-4f07-b593-d480a172b9fc.png)
 
 
 
 
 ## 🎬 Hvað var gert? :
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 
 ## 🔗 Heilmindir:
 https://www.circuit-diagram.org/editor/ <br>
