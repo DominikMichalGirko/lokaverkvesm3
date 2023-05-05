@@ -9,12 +9,12 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Efnislisti:
-⚪ ESP32 <br>
-⚪ Rasberry Pi <br>
-⚪ Ultrasonic Sensor <br>
-⚪ Virar og  <br>
-⚪ Breadboard  <br>
-⚪ Speaker <br>
+⚪ x1 ESP32 <br>
+⚪ x1 Rasberry Pi <br>
+⚪ x1 Ultrasonic Sensor <br>
+⚪ Virar og viðnam  <br>
+⚪ x2 Breadboard   <br>
+⚪ x2 Speaker <br>
 
 ##  YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
@@ -25,6 +25,11 @@ http:[livcvybunimo,p
 
 ## kerfisskýringarmynd :
 ![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
+
+## rafrásarteikning :
+![circuit](https://user-images.githubusercontent.com/97167360/236456136-2822c2c5-c907-4f07-b593-d480a172b9fc.png)
+
+
 
 
 ## Hvað var gert? :
