@@ -1,6 +1,6 @@
 # LOKAVERKEFNI VESM3
 
-👨‍🔬 **nafn** 
+👨‍🔬 **Dómald Dagur Dómaldsson, Dominik Michal Girko, Patryk Olejarczuk** 
 
 ## Verkefnalysing :
 Red Light Green light <br>
