@@ -44,7 +44,7 @@ Mynd 5: <br>
 
 ## 🎬 Hvað var gert? :
 Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
-Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman <br>
+Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman. <br>
 Vika 3: <br>
 Vika 4: <br>
 
@@ -57,3 +57,5 @@ https://www.youtube.com/watch?v=ebsXSCKsHeQ <br>
 https://www.youtube.com/watch?v=lIiiYCXFxS4 <br> 
 https://stackoverflow.com/questions/61071158/add-image-with-link-in-githubs-readme-md <br>
 https://gist.github.com/TT--/14260aef6c0e31fca5b37e7cb3c53020 <br>
+https://github.com/VESM3/IOT/blob/main/Verkefni/V5.md <br>
+
