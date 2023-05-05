@@ -3,11 +3,9 @@
 👨‍🔬 **Dómald Dagur Dómaldsson, Dominik Michal Girko, Patryk Olejarczuk** 
 
 ## Verkefnalysing :
-Í lokaverkefninu völdum við að gera Red Light Green light(eins og squid game leikið) <br>
-Græn ljos komið("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt("eliminated" speaker hjoð)
+Í lokaverkefninu völdum við að gera Red Light Green light (eins og squid game leikið) <br>
+Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt ("eliminated" speaker hjoð)
 
-
- rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
