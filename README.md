@@ -1,6 +1,6 @@
 # LOKAVERKEFNI VESM3
 
-↪️   **nafn** 
+👨‍🔬 **nafn** 
 
 ## Verkefnalysing :
 Red Light Green light <br>
@@ -32,9 +32,9 @@ http:[livcvybunimo,p
 
 
 
-## Hvað var gert? :
+## 🎬 Hvað var gert? :
 
-## Heilmindir:
+## 🔗 Heilmindir:
 https://www.circuit-diagram.org/editor/ <br>
 https://mqtt.org/ <br>
 https://techexplorations.com/guides/esp32/begin/digitalout/ <br>
