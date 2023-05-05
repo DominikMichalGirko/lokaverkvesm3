@@ -21,11 +21,12 @@ http:[livcvybunimo,p
 
 
 ## 🖼️ Myndir af Tengingum:
+[![name](link to image on GH)](link to your URL)
 
 
 ![Mynd 1](https://github.com/username/repository/DOMINIKMICHALGIRKO/lokaverkvesm3/vesm3.png)
 
-[![name](link to image on GH)](https://github.com/DominikMichalGirko/lokaverkvesm3/edit/main/README.md)
+[![Mynd 1](https://github.com/DominikMichalGirko/lokaverkvesm3/blob/3cc6fa4e9f24bb066c71dbcf82fbf9971b9dc634/vesm3.png)](https://github.com/DominikMichalGirko/lokaverkvesm3/edit/main/README.md)
 
 
 
