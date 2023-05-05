@@ -4,7 +4,7 @@
 
 ## Verkefnalysing :
 Í lokaverkefninu völdum við að gera Red Light Green light (eins og squid game leikið) <br>
-Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt ("eliminated" speaker hjoð)
+Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt ("eliminated" speaker hjoð).
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
