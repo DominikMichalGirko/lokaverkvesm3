@@ -43,7 +43,7 @@ Mynd 5: <br>
 
 
 ## 🎬 Hvað var gert? :
-Vika 1: 1 timi - <br>
+Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
 Vika 2: <br>
 Vika 3: <br>
 Vika 4: <br>
