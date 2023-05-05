@@ -9,7 +9,7 @@ Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þeg
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Efnislisti:
+## 🔤 Efnislisti:
 ⚪ x1 [esp32](https://www.espressif.com/en/products/socs/esp32) <br>
 ⚪ x1 [Rasberry Pi](https://www.raspberrypi.com/) <br>
 ⚪ x1 [Ultra Sonic sensor](https://www.fierceelectronics.com/sensors/what-ultrasonic-sensor) <br>
@@ -44,7 +44,7 @@ Mynd 5: <br>
 
 ## 🎬 Hvað var gert? :
 Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
-Vika 2: <br>
+Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman <br>
 Vika 3: <br>
 Vika 4: <br>
 
