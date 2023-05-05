@@ -12,7 +12,7 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 ⚪ x1 [esp32](https://www.espressif.com/en/products/socs/esp32) <br>
 ⚪ x1 [Rasberry Pi](https://www.raspberrypi.com/) <br>
 ⚪ x1 [Ultra Sonic sensor](https://www.fierceelectronics.com/sensors/what-ultrasonic-sensor) <br>
-⚪ Virar og viðnam  <br>
+⚪ x [Virar og viðnam](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/resistors) <br>
 ⚪ x2 [Breadboard](https://learn.adafruit.com/lesson-0-getting-started/breadboard)  <br>
 ⚪ x2 [Speaker](https://www.hackster.io/blackpanda856/play-music-using-arduino-uno-and-a-speaker-b94e4a)<br>
 
