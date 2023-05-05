@@ -3,17 +3,18 @@
 ↪️   **nafn** 
 
 ## Verkefnalysing :
+Red Light Green light <br>
 rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Efnislisti:
 ⚪ ESP32 <br>
-⚪ ---- <br>
-⚪ --- <br>
-⚪ --- <br>
-⚪ --- <br>
-⚪ --- <br>
+⚪ Rasberry Pi <br>
+⚪ Ultrasonic Sensor <br>
+⚪ Virar og  <br>
+⚪ Breadboard  <br>
+⚪  <br>
 
 ##  YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
