@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=21X5lGlDOfg+
 ## 🖼️ Myndir af Tengingum:
 
 Mynd 1: https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png <br>
-Mynd 2: <br>
+Mynd 2: <br> 
 Mynd 3: <br>
 Mynd 4: <br>
 Mynd 5: <br>
