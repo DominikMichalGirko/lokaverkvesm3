@@ -21,8 +21,6 @@ http:[livcvybunimo,p
 
 
 ## 🖼️ Myndir af Tengingum:
-[![name](https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/vesm3.png?raw=true)](https://github.com/DominikMichalGirko/lokaverkvesm3)
-
 
 https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png
 
