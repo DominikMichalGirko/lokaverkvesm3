@@ -4,7 +4,10 @@
 
 ## Verkefnalysing :
 Í lokaverkefninu völdum við að gera Red Light Green light(eins og squid game leikið) <br>
-Græn ljos komið("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þu  rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+Græn ljos komið("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt("eliminated" speaker hjoð)
+
+
+ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -15,7 +18,7 @@ Græn ljos komið("green light" speaker hljoð) þá geturðu hreyft þig, þega
 ⚪ x [Virar og viðnam](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/resistors) <br>
 ⚪ x2 [Breadboard](https://learn.adafruit.com/lesson-0-getting-started/breadboard)  <br>
 ⚪ x2 [Speaker](https://www.hackster.io/blackpanda856/play-music-using-arduino-uno-and-a-speaker-b94e4a)<br>
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💠 YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
 
@@ -42,10 +45,10 @@ Mynd 5: <br>
 
 
 ## 🎬 Hvað var gert? :
-Vika 1: 1 timi -
-Vika 2:
-Vika 3:
-Vika 4:
+Vika 1: 1 timi - <br>
+Vika 2: <br>
+Vika 3: <br>
+Vika 4: <br>
 
 ## 🔗 Heilmindir:
 https://www.circuit-diagram.org/editor/ <br>
