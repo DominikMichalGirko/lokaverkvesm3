@@ -3,13 +3,13 @@
 👨‍🔬 **Dómald Dagur Dómaldsson, Dominik Michal Girko, Patryk Olejarczuk** 
 
 ## Verkefnalysing :
-Red Light Green light <br>
-rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss <imagibe.png>
+Í lokaverkefninu völdum við að gera Red Light Green light(eins og squid game leikið) <br>
+rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssrtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Efnislisti:
-⚪ x1 ESP32 <br>
+⚪ x1 [esp32](https://www.espressif.com/en/products/socs/esp32) <br>
 ⚪ x1 Rasberry Pi <br>
 ⚪ x1 Ultrasonic Sensor <br>
 ⚪ Virar og viðnam  <br>
