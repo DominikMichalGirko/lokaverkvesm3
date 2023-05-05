@@ -25,6 +25,7 @@ http:[livcvybunimo,p
 [mynd1](![vesm3](https://user-images.githubusercontent.com/97167360/236458846-41697482-e8b1-43be-be87-c3a0c1485e0e.png))
 
 
+
 ## kerfisskýringarmynd :
 ![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
 
