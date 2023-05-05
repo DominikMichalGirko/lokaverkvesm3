@@ -14,7 +14,7 @@ rtosajisodji;sadjisajdilsjdlkasdjlskajslkdjslkdsjkslkdjsakdjkslajaskjuwaugwsssss
 ⚪ Ultrasonic Sensor <br>
 ⚪ Virar og  <br>
 ⚪ Breadboard  <br>
-⚪  <br>
+⚪ Speaker <br>
 
 ##  YouTube myndband sem synir virkni: <br>
 http:[livcvybunimo,p
@@ -24,7 +24,7 @@ http:[livcvybunimo,p
 
 
 ## kerfisskýringarmynd :
-----![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
+![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
 
 
 ## Hvað var gert? :
@@ -33,5 +33,7 @@ http:[livcvybunimo,p
 https://www.circuit-diagram.org/editor/ <br>
 https://mqtt.org/ <br>
 https://techexplorations.com/guides/esp32/begin/digitalout/ <br>
+https://www.circuit-diagram.org/ <br>
+
 
 
