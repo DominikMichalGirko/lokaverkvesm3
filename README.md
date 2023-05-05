@@ -20,6 +20,7 @@ Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þeg
 ## 💠 YouTube myndband sem synir virkni: <br>
 https://www.youtube.com/watch?v=21X5lGlDOfg+
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🖼️ Myndir af Tengingum:
 
@@ -29,15 +30,19 @@ Mynd 3: <br>
 Mynd 4: <br>
 Mynd 5: <br>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
 
 ## kerfisskýringarmynd :
 ![image](https://user-images.githubusercontent.com/97167360/236170807-c4c17fbe-a6ae-4036-865d-6e4b96bc6b29.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Rafrásarteikning :
 ![circuit](https://user-images.githubusercontent.com/97167360/236456136-2822c2c5-c907-4f07-b593-d480a172b9fc.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -47,6 +52,7 @@ Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
 Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman. <br>
 Vika 3: <br>
 Vika 4: <br>
+
 
 ## 🔗 Heilmindir:
 https://www.circuit-diagram.org/editor/ <br>
