@@ -42,7 +42,10 @@ Mynd 5: <br>
 
 
 ## 🎬 Hvað var gert? :
-jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+Vika 1: 1 timi -
+Vika 2:
+Vika 3:
+Vika 4:
 
 ## 🔗 Heilmindir:
 https://www.circuit-diagram.org/editor/ <br>
