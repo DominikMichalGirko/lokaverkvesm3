@@ -6,6 +6,8 @@
 Í lokaverkefninu völdum við að gera Red Light Green light (eins og squid game leikið) <br>
 Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt ("eliminated" speaker hjoð).
 
+[Koðin er her ](https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/Ko%C3%B0in%20fyrir%20red%20light%20green%20light ) : <br> 
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
