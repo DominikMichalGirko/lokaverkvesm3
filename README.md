@@ -15,8 +15,10 @@ Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þeg
 ⚪ x1 [Ultra Sonic sensor](https://www.fierceelectronics.com/sensors/what-ultrasonic-sensor) <br>
 ⚪ x [Virar og viðnam](https://learn.adafruit.com/adafruit-arduino-lesson-2-leds/resistors) <br>
 ⚪ x2 [Breadboard](https://learn.adafruit.com/lesson-0-getting-started/breadboard)  <br>
-⚪ x2 [Speaker](https://www.hackster.io/blackpanda856/play-music-using-arduino-uno-and-a-speaker-b94e4a)<br>
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚪ x2 [Speaker](https://www.hackster.io/blackpanda856/play-music-using-arduino-uno-and-a-speaker-b94e4a)<br>\
+
+[VERKEFNI]( https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png) <br>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💠 YouTube myndband sem synir virkni: <br>
 https://www.youtube.com/watch?v=21X5lGlDOfg+
 
