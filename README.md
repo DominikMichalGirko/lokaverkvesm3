@@ -54,7 +54,7 @@ Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
 Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman. <br>
 Vika 3: Byrjuðum að setja allt saman og setja koða inn. <br> 
 Vika 4:  <br>
-[a relative link](other_file.md)
+[a relative link](google.com)
 
 
 ## 🔗 Heilmindir:
