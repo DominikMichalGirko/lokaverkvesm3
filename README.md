@@ -22,6 +22,9 @@ Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þeg
 ## 💠 Myndband sem synir virkni: <br>
 
 
+
+https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/66c05fe2-7bb7-4a0e-99d0-ce06013fb33a
+
 https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-9492-4863-a6bb-3f9b869888dc
 
 
