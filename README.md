@@ -65,7 +65,7 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 ## 🎬 Hvað var gert? :
 Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
 Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman. <br>
-Vika 3 og 4: Byrjuðum að setja allt saman og setja koða inn. <br> 
+Vika 3 og 4: Byrjuðum að setja allt saman og setja kóða inn, kóðinn fyrir squid game breyttist aðeins vegna erfiðleika með að vinna með augu, fundum lausn með að nota PIR hreyfi skynjara sem virkaði betur en lentum í vanda með að finna út hver varð eliminated og varð erfiðara að implementa en fyrst var hugsað svo við notuðum ittft email service í staðinn sem staðgengill til að byrja með og enduðum með það, ESP-now hefði verið líklega besta leiðinn að nálgast þetta heldur en mqtt vegna tengingar og hentugra fyrir tengingu milli espa fyrir leik og gætum losnað við að nota callback function fyrir subscribe og publish sem hægir á samskiptum og limiterar möguleika á að gera eitthvað meira.  <br> 
 
 
 
