@@ -35,7 +35,6 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 [Mynd 3](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd3 ) : <br>
 [Mynd 4](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd4 ) : <br>
 [Mynd 5](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd5 ) : <br>
-
 [email mynd ](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/email-mynd) : <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
