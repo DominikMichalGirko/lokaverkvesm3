@@ -56,12 +56,15 @@ void connect_MQTT(){
   }
 }
 
+// breytur fyrir pinna ljós og hreyfiskynjara
 int pirPin = 14;
 int pirState = LOW; // variable to hold the PIR sensor state
 
 int red = 4;
 int green = 2;
 
+// callback function sem hlustar eftir skilaboðum frá raspberry
+// er notað til að vinna með gögn frá raspberry actuator
 void callback(char* Topic, byte* message, unsigned int length) {
   Serial.print("Message arrived on topic: ");
   Serial.print(Topic);
@@ -73,7 +76,8 @@ void callback(char* Topic, byte* message, unsigned int length) {
     messageTemp += (char)message[i];
   }
   Serial.println();
-
+// skoðum hvort strengur sé green þá kveikjum við á green led
+// eða skoðum hvort strengur sé Red og þá kveikjum við á red led
   if (messageTemp == "Green") {
     Serial.println("GreenLight");
     digitalWrite(green,HIGH);
@@ -83,6 +87,8 @@ void callback(char* Topic, byte* message, unsigned int length) {
     Serial.println("redLight");
     digitalWrite(red, HIGH);
     digitalWrite(green,LOW);
+    // settum inn publish function í callback function til að senda frá sér gögn ef hreyfing á sér stað
+    // og erum líka með ifft service sem sendir email ef hreyfing á sér stað
     
     int motionDetected = digitalRead(pirPin);
     if(motionDetected == HIGH) {
@@ -139,6 +145,7 @@ void loop() {
     connect_MQTT();
     client.subscribe(GameOn);
   }
+  
 
   // Call client.loop() to receive messages from the MQTT broker
   client.loop();
