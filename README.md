@@ -36,7 +36,7 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 ## 🖼️ Myndir af Tengingum:
 
 <img src="https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png" width="50%" height="50%">
-<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd2" width="50%" height="50%">
 <img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd3" width="50%" height="50%">
 <img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd4" width="50%" height="50%">
 <img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd5k" width="50%" height="50%">
