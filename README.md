@@ -32,7 +32,7 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 
 [Mynd 1]( https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png) : <br>
 [Mynd 2](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd2 ) : <br>
-[Mynd 3]( ) : <br>
+[Mynd 3](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd3 ) : <br>
 [Mynd 4]( ) : <br>
 [Mynd 5]( ) : <br>
 
