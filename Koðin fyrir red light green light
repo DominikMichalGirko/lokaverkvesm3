@@ -14,6 +14,11 @@ const char* Light_topic = "home/VesmLight";
 const char* clientID = "client_GreenRedVesm"; // MQTT client ID
 const char* GameOn = "home/GameOnVesm";
 
+//Your IFTTT webhook private address
+const char* host = "maker.ifttt.com";
+const char* apiKey = "bDS3qAHFngPLIlMqVJRMAA";
+String your_dead = "Eliminated";
+
 
 // Initialise the WiFi and MQTT Client objects
 WiFiClient wifiClient;
@@ -86,6 +91,24 @@ void callback(char* Topic, byte* message, unsigned int length) {
       if (client.connected() && client.publish(Light_topic, String(hre).c_str())) {
         Serial.println("hreyfing send");
         digitalWrite(red,HIGH);
+        Serial.print("connecting to ");
+        Serial.println(host);
+        WiFiClient client;
+        const int httpPort = 80;
+        if (!client.connect(host, httpPort)) {
+          Serial.println("connection failed");
+          return;
+        }
+          String url = "/trigger/your_dead/with/key/";
+          url += apiKey;
+
+          Serial.print("Requesting URL: ");
+          Serial.println(url);
+          client.print(String("POST ") + url + " HTTP/1.1\r\n" +
+                     "Host: " + host + "\r\n" + 
+                     "Content-Type: application/x-www-form-urlencoded\r\n" + 
+                     "Content-Length: 13\r\n\r\n" +
+                     "value1=" + your_dead + "\r\n");
       }
       else {
        Serial.println("failed to send hreyfing");
