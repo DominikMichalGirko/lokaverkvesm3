@@ -56,8 +56,8 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 ## 🎬 Hvað var gert? :
 Vika 1: ***1 timi*** - Ákvöddum hvað við ætluðum að gera. <br>
 Vika 2: Byrjuðum að finna út úr kóðanum náðum flestu til að virka, byrjuðum að setja allt saman. <br>
-Vika 3: Byrjuðum að setja allt saman og setja koða inn. <br> 
-Vika 4:  <br>
+Vika 3 og 4: Byrjuðum að setja allt saman og setja koða inn. <br> 
+
 
 
 
