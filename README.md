@@ -37,21 +37,13 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 
 <img src="https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png" width="50%" height="50%">
 <img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd2" width="50%" height="50%">
-<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd3" width="50%" height="50%">
-<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd4" width="50%" height="50%">
-<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd5k" width="50%" height="50%">
-<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd-full" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd3" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd4" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd5" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd%20full" width="50%" height="50%">
 
 
 
-
-[Mynd 1]( https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png) : <br>
-[Mynd 2](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd2 ) : <br>
-[Mynd 3](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd3 ) : <br>
-[Mynd 4](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd4 ) : <br>
-[Mynd 5](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd5 ) : <br>
-[email mynd ](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/email-mynd) : <br>
-[full mynd ](https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd-full) : <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
