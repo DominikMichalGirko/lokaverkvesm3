@@ -2,6 +2,8 @@
 
 👨‍🔬 **Dómald Dagur Dómaldsson, Dominik Michal Girko, Patryk Olejarczuk** 
 
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd%20verk" width="50%" height="50%">
+
 ## Verkefnalysing :
 Í lokaverkefninu völdum við að gera Red Light Green light (eins og squid game leikið) <br>
 Græn ljos komið ("green light" speaker hljoð) þá geturðu hreyft þig, þegar rauð ljos komið ("red light" speaker hljoð) þu verður að stoppa og frjósa ,þegar þu hreyfst þá þú verður útrýmt ("eliminated" speaker hjoð).   [Koðin fyrir red light green light er her ](https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/Ko%C3%B0in%20fyrir%20red%20light%20green%20light ) : <br> 
@@ -33,7 +35,13 @@ https://github.com/DominikMichalGirko/lokaverkvesm3/assets/97167360/98ece4de-949
 
 ## 🖼️ Myndir af Tengingum:
 
-<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/blob/main/mynd%20verk" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/DominikMichalGirko/lokaverkvesm3/main/vesm3.png" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd3" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd4" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd5k" width="50%" height="50%">
+<img src="https://github.com/DominikMichalGirko/lokaverkvesm3/wiki/mynd-full" width="50%" height="50%">
+
 
 
 
