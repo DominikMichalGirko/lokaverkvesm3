@@ -93,9 +93,8 @@ void callback(char* Topic, byte* message, unsigned int length) {
         digitalWrite(red,HIGH);
         Serial.print("connecting to ");
         Serial.println(host);
-        WiFiClient client;
         const int httpPort = 80;
-        if (!client.connect(host, httpPort)) {
+        if (!wifiClient.connect(host, httpPort)) {
           Serial.println("connection failed");
           return;
         }
@@ -104,7 +103,7 @@ void callback(char* Topic, byte* message, unsigned int length) {
 
           Serial.print("Requesting URL: ");
           Serial.println(url);
-          client.print(String("POST ") + url + " HTTP/1.1\r\n" +
+          wifiClient.print(String("POST ") + url + " HTTP/1.1\r\n" +
                      "Host: " + host + "\r\n" + 
                      "Content-Type: application/x-www-form-urlencoded\r\n" + 
                      "Content-Length: 13\r\n\r\n" +
